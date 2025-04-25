@@ -1,0 +1,7 @@
+name,email,username,age,city,occupation
+John Doe,john@example.com,johndoe,30,New York,Software Engineer
+Jane Smith,jane@example.com,janesmith,28,London,Product Manager
+Bob Wilson,bob@example.com,bobwilson,35,Toronto,Data Scientist
+Alice Brown,alice@example.com,aliceb,25,Sydney,UX Designer
+Mike Johnson,mike@example.com,mikej,32,Berlin,DevOps Engineer
+Sarah Davis,sarah@example.com,sarahd,29,Paris,QA Engineer 
